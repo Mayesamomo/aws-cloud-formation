@@ -1,0 +1,6 @@
+The aim of this project is to:
+1. understand how to use cloudFormation to create resources on aws .
+2. To understand and create vpn , an ec2 instance to host a Springboot server application. 
+3. To understand and create anothe ec2 instance to hold a React js application and connect it to server side.
+4. To understand how to create communication between amaxon RDS(MySQL) and connect it to my application running on the ec2 instance hosting the server application.
+5. to connect and allow ec2 stack template to get access to s3 bucket.
